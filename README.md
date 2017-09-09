@@ -1,6 +1,12 @@
 # SensorClassification
 Simple BLSTM-MLP for sensor data classification
 
+Files:
+Temperature_Analysis_using_Theano.html **Printout of notebook, showing graphics, figures and results**
+Temperature_Analysis_using_Theano.pynb **Python notebook with complete code**
+Temperature_Analysis_using_Theano.py  **Python file conversion from python notebook**
+
+Note: Data not added due to proprietary restrictions.
 
 # Prosthetic Sensor Temperature Analysis
 
