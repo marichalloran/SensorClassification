@@ -18,7 +18,7 @@ Important Notes:
 - Here, we will employ bidirectional LSTM (BLSTM), which are capable of learning the context in both temporal directions, in addition to a multi-layer perceptron (MLP), stacked (Model 1)
 - **Future Implementation**: Auxiliary Classifier Generative Adversarial Network (ACGAN) is also shown in Model 2
 - As evaluation metrics we used F-measure in order to compare the results with previous works.
-![Fig.1](data/SCH-sensors.png) 
+![Fig.1](SCH-sensors.png) 
 Fig. 1 Sensor Placement
 
 
